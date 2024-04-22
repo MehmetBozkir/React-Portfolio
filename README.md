@@ -27,7 +27,7 @@ Protfolio Website | Plain and Simple Nextjs.
 
   ## 💬 Project Innovations/Advantages
 
-  First Project : <a target="_blank" href="https://mehmetbozkir.github.io/"> Github.io </a> 
+  First Project : <a target="_blank" href="https://github.com/MehmetBozkir/MehmetBozkir.github.io"> Github.io </a> 
 
 1\. Design Improvements :
 
