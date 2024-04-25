@@ -21,7 +21,7 @@ Protfolio Website | Plain and Simple Nextjs.
   <br> 
 
 ## :link: Demo
-  - <a target="_blank" href="https://react-my-portfolio-x.netlify.app/"> Netflify </a> to see and examine by yourself a demo of the site.
+  - <a target="_blank" href="https://mehmetsalihbozkir.netlify.app/"> Netflify </a> to see and examine by yourself a demo of the site.
   
 <br> 
 
