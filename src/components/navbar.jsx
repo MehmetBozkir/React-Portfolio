@@ -69,7 +69,7 @@ const Navbar = () => {
   };
 
   return (
-    <div className="h-full flex items-center justify-between px-4 sm:px-8 md:px-12 lg:px-20 xl:px-48 text-xl">
+    <div className="h-full flex items-center justify-between px-4 sm:px-8 md:px-12 lg:px-20 xl:px-48 text-xl z-50 relative">
       <GithubCorner
         href={"https://github.com/MehmetBozkir"}
         target="_blank"
@@ -82,10 +82,10 @@ const Navbar = () => {
 
       <div className="hidden md:flex w-1/3 text-2xl font-bold font-style: italic">
         <Link href={"/"}>
-          <span className="text-slate-500 underline decoration-sky-400">
+          <span className="text-white underline decoration-sky-400">
             MEHMET
           </span>
-          <span className="text-sky-400 underline decoration-slate-500">
+          <span className="text-sky-400 underline decoration-white">
             BOZKIR
           </span>
         </Link>
@@ -101,6 +101,7 @@ const Navbar = () => {
         <button
           className="w-10 h-8 flex flex-col justify-between z-50 relative "
           onClick={() => setOpen((prev) => !prev)}
+          aria-label="Stack Menu"
         >
           <motion.div
             variants={topVariants}
@@ -134,6 +135,7 @@ const Navbar = () => {
                 <Link href={link.url}>{link.title}</Link>
               </motion.div>
             ))}
+            <div></div>
           </motion.div>
         )}
       </div>
