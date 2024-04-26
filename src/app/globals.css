@@ -21,3 +21,11 @@
     border-radius: 30% 60% 70% 40% / 50% 60% 30% 60%;
   }
 }
+
+@media (max-width: 768px) {
+  .deneme {
+    max-height: 95%;
+    max-width: 80%;
+    margin-bottom: 50%;
+  }
+}
