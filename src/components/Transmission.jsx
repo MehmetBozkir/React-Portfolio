@@ -16,7 +16,7 @@ function Transmission() {
       </a>
       <Link
         href={"/contact"}
-        className="p-4 rounded-full flex bg-white text-black bg-opacity-40 hover:scale-[1.15]"
+        className="p-4 rounded-full flex bg-white text-white bg-opacity-40 hover:scale-[1.15]"
       >
         Contact Me <IoIosSend className="text-2xl ml-2" />
       </Link>
