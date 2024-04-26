@@ -10,7 +10,7 @@ import { SiLinktree } from "react-icons/si";
 
 function Social() {
   return (
-    <div className="flex gap-4 bg-white p-2 rounded-full bg-opacity-40">
+    <div className="flex gap-4 bg-white p-2 rounded-full bg-opacity-40 text-white">
       <Link
         href="https://github.com/MehmetBozkir"
         target="_blank"
