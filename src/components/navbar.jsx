@@ -91,7 +91,7 @@ const Navbar = () => {
         </Link>
       </div>
 
-      <div className="hidden md:flex gap-4 w-1/3">
+      <div className="hidden md:flex gap-4 w-1/3 text-white">
         {links.map((link) => (
           <NavLink link={link} key={link.title} />
         ))}
