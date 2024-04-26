@@ -25,7 +25,7 @@ const AboutPage = () => {
       transition={{ duration: 1 }}
     >
       <div className="h-full overflow-scroll lg:flex" ref={containerRef}>
-        <div className="p-4 sm:p-8 md:p-12 lg:p-20 xl:p-48 flex flex-col gap-24 md:gap-32 lg:gap-48 xl:gap-64 lg:w-2/3 lg:pr-0 xl:w-1/2">
+        <div className="p-4 sm:p-8 md:p-12 lg:p-20 xl:p-48 flex flex-col gap-24 md:gap-32 lg:gap-48 xl:gap-64 lg:w-2/3 lg:pr-0 xl:w-1/2 text-white">
           <div className="flex flex-col gap-12 justify-center">
             <Image
               src="/Profile_2.webp"
@@ -212,7 +212,7 @@ const AboutPage = () => {
                 </div>
 
                 <div className="w-1/3 ">
-                  <div className="bg-white p-3 font-semibold rounded-b-lg rounded-s-lg">
+                  <div className="bg-black bg-opacity-60 p-3 font-semibold rounded-b-lg rounded-s-lg">
                     Junior React Developer
                   </div>
 
@@ -229,7 +229,7 @@ const AboutPage = () => {
 
               <div className="flex justify-between h-48">
                 <div className="w-1/3 ">
-                  <div className="bg-white p-3 font-semibold rounded-b-lg rounded-s-lg">
+                  <div className="bg-black bg-opacity-60 p-3 font-semibold rounded-b-lg rounded-s-lg">
                     Freelancer{" "}
                   </div>
 
