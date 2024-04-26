@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .deneme {
-  background-image: url(https://avatars.githubusercontent.com/u/150898451?s=400&u=1d938df53c4bca17fa36e86e200f729e5d070586&v=4);
+  background-image: url("/Profile_1.webp");
   width: 380px;
   height: 380px;
   background-size: cover;
