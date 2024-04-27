@@ -9,7 +9,7 @@ Protfolio Website | Plain and Simple Nextjs.
 <br> 
   
 :wrench: Features 
-  -----------------------------
+  ------------------------------
 
 - Responsive web design :
      - Different designs customized for small and large screens.
