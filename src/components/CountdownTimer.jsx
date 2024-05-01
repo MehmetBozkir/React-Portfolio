@@ -25,7 +25,7 @@ const CountdownTimer = () => {
   return (
     <div className="countdown-timer">
       <div className="timer-container">
-        <div className="timer-item">
+        <div className="timer-item flex">
           <span className="value">{days}</span>
           <span className="label">d</span>
           <span className="value"> {hours}</span>
