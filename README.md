@@ -1,10 +1,15 @@
-# React-Portfolio
+<img align="center" src="https://github.com/MehmetBozkir/React-eCommorce-Website/assets/150898451/4bac5fc8-e7cf-4a4a-82d2-213b95e505ec" height="600" width="1200" alt="Responsive Photo 1"/>
 
+# React-Portfolio
 
 Protfolio Website | Plain and Simple Nextjs.
 
-
 <p align="center"> 
+
+<br> 
+
+## :link: Demo
+  - <a target="_blank" href="https://mehmetsalihbozkir.netlify.app/"> Netflify </a> to see and examine by yourself a demo of the site.
 
 <br> 
   
@@ -19,11 +24,6 @@ Protfolio Website | Plain and Simple Nextjs.
 - Original and moving design.
 
   <br> 
-
-## :link: Demo
-  - <a target="_blank" href="https://mehmetsalihbozkir.netlify.app/"> Netflify </a> to see and examine by yourself a demo of the site.
-  
-<br> 
 
   ## 💬 Project Innovations/Advantages
 
@@ -59,14 +59,3 @@ $ npm install
 # Run the app
 $ npm run dev
 ```
-
-<br> 
-
-  ## :movie_camera: Images
-  <img align="center" src="https://github.com/MehmetBozkir/React-Portfolio/assets/150898451/0bd33e3f-5f01-42ee-9f17-02a3d375bdeb" alt="Website Photo 1"/>
-  <img align="center" src="https://github.com/MehmetBozkir/React-Portfolio/assets/150898451/ad956612-fd6f-451a-9701-8e4cbe77b042" alt="Website Photo 2"/>
-  <hr/>
-  
-  # Mobile Screen
-  <img align="center" src="https://github.com/MehmetBozkir/React-Portfolio/assets/150898451/3bc3828e-f34f-469b-9119-4c9bbd85d086" alt="Mobile Photo 1"/>
-
