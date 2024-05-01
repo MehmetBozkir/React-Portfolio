@@ -1,6 +1,8 @@
+# React-Portfolio
+
 <img align="center" src="https://github.com/MehmetBozkir/React-eCommorce-Website/assets/150898451/4bac5fc8-e7cf-4a4a-82d2-213b95e505ec" height="500" width="1200" alt="Responsive Photo 1"/>
 
-# React-Portfolio
+<hr> 
 
 Protfolio Website | Plain and Simple Nextjs.
 
