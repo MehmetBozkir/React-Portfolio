@@ -203,16 +203,19 @@ const AboutPage = () => {
               <div className="flex justify-between h-48">
                 <div className="w-1/3 ">
                   <div className="bg-black bg-opacity-60 p-3 font-semibold rounded-b-lg rounded-s-lg">
-                    Junior React Developer
+                    JR React Developer
                   </div>
 
                   <div className="p-3 text-sm italic">
-                    I hope I can reach this competence and earn this title as
-                    soon as possible.
+                    Nextjs-based front-end staff
                   </div>
 
                   <div className="p-3 text-red-400 text-sm font-semibold">
-                    2024 = intention
+                    06.2024 - Present
+                  </div>
+
+                  <div className="p-1 rounded bg-black bg-opacity-60 text-sm font-semibold w-fit">
+                    Suforia
                   </div>
                 </div>
 
@@ -244,7 +247,7 @@ const AboutPage = () => {
                   </div>
 
                   <div className="p-3 text-red-400 text-sm font-semibold">
-                    05.2024 - Present
+                    05.2024 - 06.2024
                   </div>
 
                   <div className="p-1 rounded bg-black bg-opacity-60 text-sm font-semibold w-fit">
