@@ -211,7 +211,7 @@ const AboutPage = () => {
                   </div>
 
                   <div className="p-3 text-red-400 text-sm font-semibold">
-                    06.2024 - Present
+                    03.2024 - Present
                   </div>
 
                   <div className="p-1 rounded bg-black bg-opacity-60 text-sm font-semibold w-fit">
@@ -247,7 +247,7 @@ const AboutPage = () => {
                   </div>
 
                   <div className="p-3 text-red-400 text-sm font-semibold">
-                    05.2024 - 06.2024
+                    01.2024 - 03.2024
                   </div>
 
                   <div className="p-1 rounded bg-black bg-opacity-60 text-sm font-semibold w-fit">
