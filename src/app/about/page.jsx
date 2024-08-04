@@ -208,7 +208,7 @@ const AboutPage = () => {
 
                   <div className="p-3 text-sm italic">
                     <p>Nextjs-based front-end staff</p>
-                    <p> The Project =
+                    <p className="mt-2"> The Project= 
             <a href="https://www.level2app.com/" target="_blank">
               https://www.level2app.com/
             </a></p>
