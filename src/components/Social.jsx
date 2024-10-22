@@ -33,7 +33,7 @@ function Social() {
         <IoLogoStackoverflow className="text-4xl hover:scale-[1.35]" />
       </Link>
       <Link
-        href="https://www.linkedin.com/in/mehmet-salih-bozk%C4%B1r/"
+        href="https://www.linkedin.com/in/mehmet-salih-bozkir/"
         target="_blank"
         aria-label="Linkedin Link"
       >
