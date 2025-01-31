@@ -24,7 +24,10 @@ const AboutPage = () => {
       animate={{ y: "0%" }}
       transition={{ duration: 1 }}
     >
-      <div className="h-full overflow-scroll lg:flex" ref={containerRef}>
+      <div
+        className="h-full overflow-scroll lg:flex max-w-full"
+        ref={containerRef}
+      >
         <div className="p-4 sm:p-8 md:p-12 lg:p-20 xl:p-48 flex flex-col gap-24 md:gap-32 lg:gap-48 xl:gap-64 lg:w-2/3 lg:pr-0 xl:w-1/2 text-white">
           <div className="flex flex-col gap-12 justify-center">
             <Image
@@ -87,7 +90,7 @@ const AboutPage = () => {
             <motion.div
               initial={{ x: "-300px" }}
               animate={isSkillRefInView ? { x: 0 } : {}}
-              className="flex gap-4 flex-wrap"
+              className="flex gap-4 flex-wrap justify-center max-w-full overflow-hidden"
             >
               <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-white hover:text-black">
                 Git
@@ -201,6 +204,33 @@ const AboutPage = () => {
               className=""
             >
               <div className="flex justify-between h-48">
+                <div className="w-1/3 "></div>
+
+                <div className="w-1/6 flex justify-center">
+                  <div className="w-1 h-full bg-gray-600 rounded relative">
+                    <div className="absolute w-5 h-5 rounded-full ring-4 ring-red-400 bg-white -left-2"></div>
+                  </div>
+                </div>
+
+                <div className="w-1/3 ">
+                  <div className="bg-black bg-opacity-60 p-3 font-semibold rounded-b-lg rounded-s-lg">
+                  Software Engineer
+                  </div>
+
+                  <div className="p-3 text-sm italic">
+                  Using the Vitejs framework to produce playable ads together with GSAP and Pixijs. 
+                  </div>
+
+                  <div className="p-3 text-red-400 text-sm font-semibold">
+                    01.2025 - 02.2025
+                  </div>
+
+                  <div className="p-1 rounded bg-black bg-opacity-60 text-sm font-semibold w-fit">
+                  Playable Factory
+                  </div>
+                </div>
+              </div>
+              <div className="flex justify-between h-48">
                 <div className="w-1/3 ">
                   <div className="bg-black bg-opacity-60 p-3 font-semibold rounded-b-lg rounded-s-lg">
                     JR React Developer
@@ -209,13 +239,13 @@ const AboutPage = () => {
                   <div className="p-3 text-sm italic">
                     <p>Nextjs-based front-end staff</p>
                     <p className="mt-2"> The Project= </p>
-                       <a href="https://www.level2app.com/" target="_blank">
-              https://www.level2app.com/
-            </a>
+                    <a href="https://www.level2app.com/" target="_blank">
+                      https://www.level2app.com/
+                    </a>
                   </div>
 
                   <div className="p-3 text-red-400 text-sm font-semibold">
-                    03.2024 - Present
+                    03.2024 - 01.2025 
                   </div>
 
                   <div className="p-1 rounded bg-black bg-opacity-60 text-sm font-semibold w-fit">
